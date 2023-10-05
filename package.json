@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-edge",
+  "version": "0.0.1",
+  "description": "environment for building a library that will work in both edge and browser environments",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacob-roberts/eslint-plugin-edge.git"
+  },
+  "author": {
+    "email": "jroberts.g1ql8@simplelogin.com",
+    "name": "Jacob Roberts",
+    "url": "https://jakerob.pro"
+  },
+  "license": "ISC"
+}
