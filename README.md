@@ -2,15 +2,23 @@
 
 This eslint environment will help ensure you have the environment set correctly for edge / browser development.
 
-## Usage
+## Installation
 
-Install the plugin:
+You'll first need to install [ESLint](https://eslint.org/):
 
-```bash
-npm install --save-dev eslint-plugin-edge
+```sh
+npm i eslint --save-dev
 ```
 
-Add the plugin to your eslint config:
+Next, install `eslint-plugin-edge`:
+
+```sh
+npm install eslint-plugin-edge --save-dev
+```
+
+## Usage
+
+Add `edge` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {

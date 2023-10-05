@@ -1,3 +1,5 @@
+"use strict";
+
 // from https://nextjs.org/docs/pages/api-reference/edge
 
 const config = {
